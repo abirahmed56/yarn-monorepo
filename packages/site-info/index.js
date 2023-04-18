@@ -10,3 +10,12 @@ const PROJECT = {
   export function addNumber(a, b){
     return a+b;
   }
+  export function subNumber(a, b){
+    return a-b;
+  }
+  export function divNumber(a, b){
+    return a/b;
+  }
+  export function mulNumber(a, b){
+    return a*b;
+  }
