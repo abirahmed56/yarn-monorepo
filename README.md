@@ -11,12 +11,12 @@ Yarn Monorepo
 
 Project Structure
 
+
    monorepo/
      apps/
        app1/
        app2/
        ...
-
      packages/
        package1/
        package2/
@@ -29,7 +29,7 @@ Creating a New Package
 
     1. Create a new directory for the package under `packages/`
     2. Initialize a new package.json file in the directory: `yarn init`
-    3. Add any necessary dependencies to the package: `yarn workspace       <package-name> add <dependency>`
+    3. Add any necessary dependencies to the package: `yarn workspace <package-name> add <dependency>`
     4. Add any necessary scripts to the `package.json` file.
 
 
@@ -43,7 +43,7 @@ Running the App
     4. Open your web browser and go to `http://localhost:3000`
 
   To run all apps:
-  
+
   In the root folder run the command to start all development server
 
       yarn dev
