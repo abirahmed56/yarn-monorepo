@@ -13,15 +13,15 @@ Project Structure
 
  The structure of this monorepo project is: 
 
-   monorepo/
-     apps/
-       app1/
-       app2/
-       ...
-     packages/
-       package1/
-       package2/
-       ...
+    monorepo/
+      apps/
+        app1/
+        app2/
+        ...
+      packages/
+        package1/
+        package2/
+        ...
 
 
 Creating a New Package
