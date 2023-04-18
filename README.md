@@ -27,20 +27,20 @@ Creating a New Package
 
   To create a new package in the monorepo:
 
-    1. Create a new directory for the package under `packages/`
-    2. Initialize a new package.json file in the directory: `yarn init`
-    3. Add any necessary dependencies to the package: `yarn workspace <package-name> add <dependency>`
-    4. Add any necessary scripts to the `package.json` file.
+  1. Create a new directory for the package under `packages/`
+  2. Initialize a new package.json file in the directory: `yarn init`
+  3. Add any necessary dependencies to the package: `yarn workspace <package-name> add <dependency>`
+  4. Add any necessary scripts to the `package.json` file.
 
 
 Running the App
 
   To run specific app:
 
-    1. Navigate to the apps directory: `cd apps`
-    2. Navigate to the app: `cd app_name`
-    3. Start the development server: `yarn dev`
-    4. Open your web browser and go to `http://localhost:3000`
+  1. Navigate to the apps directory: `cd apps`
+  2. Navigate to the app: `cd app_name`
+  3. Start the development server: `yarn dev`
+  4. Open your web browser and go to `http://localhost:3000`
 
   To run all apps:
 
