@@ -4,13 +4,14 @@ Yarn Monorepo
 
   Getting Started
 
-    1. Clone the repository `git clone https://github.com.abirahmed56/yarn-monorepo.git`
-    2. Install Yarn if you don't have it already: `npm install -g yarn`
-    3. Install dependencies: `yarn install`
+  1. Clone the repository `git clone https://github.com.abirahmed56/yarn-monorepo.git`
+  2. Install Yarn if you don't have it already: `npm install -g yarn`
+  3. Install dependencies: `yarn install`
 
 
 Project Structure
 
+ The structure of this monorepo project is: 
 
    monorepo/
      apps/
