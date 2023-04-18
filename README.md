@@ -43,11 +43,12 @@ Running the App
     4. Open your web browser and go to `http://localhost:3000`
 
   To run all apps:
-    In the root folder run the command to start all development server
+  
+  In the root folder run the command to start all development server
 
       yarn dev
 
-    then open your browser and go to `http://localhost:3000`, `http://localhost:3000`, ...
+  then open your browser and go to `http://localhost:3000`, `http://localhost:3000`, ...
     (where all the project are running.. )
 
 Running Scripts
